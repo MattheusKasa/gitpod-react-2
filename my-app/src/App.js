@@ -1,13 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import EventBinding from "./components/EventBinding";
+import NestingComponents from './components/NestingComponents';
 
 function App() {
-  return (
-    <div className="App">
-      <EventBinding />
-    </div>
-  );
+  return <div className="App">
+      <NestingComponents />
+    </div>;
 }
 
 export default App;
