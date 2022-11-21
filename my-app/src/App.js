@@ -1,9 +1,9 @@
 import './App.css';
-import LifeCyclesDCM from './components/LifeCyclesCDM';
+import LifeCyclesCDU from './components/LifeCyclesCDU';
 
 function App() {
   return <div className="App">
-      <LifeCyclesDCM />
+      <LifeCyclesCDU />
     </div>;
 }
 
