@@ -1,9 +1,9 @@
 import './App.css';
-import RenderingLists from './components/RenderingLists';
+import LifeCyclesDCM from './components/LifeCyclesCDM';
 
 function App() {
   return <div className="App">
-      <RenderingLists />
+      <LifeCyclesDCM />
     </div>;
 }
 
